@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'add_intro'            => 'Add Intro',
+    'edit_intro'           => 'Edit Intro',
+    'intro_added'          => 'Intro created successfully',
+    'intro_image'          => 'Intro Image',
+    'no_data_found'        => 'No Data Found',
+    'intro_title_ar'       => 'Title Arabic',
+    'intro_title_en'       => 'Title English',
+    'intro_description_ar' => 'Description Arabic',
+    'intro_description_en' => 'Description English',
+    'somthing_error'       => 'Something went wrong',
+    'intro_edited'         => 'Intro edited successfully',
+    'intro_deleted'        => 'Intro deleted successfully',
+    'app_settings'         => 'App Settings',
+    'currency'             => 'Currency',
+    'date_kind'            => 'Date Kind',
+    'terms'                => 'Terms And Conditions',
+    'about'                => 'About Us',
+    'setting_image'        => 'Setting Image',
+    'send_notification'    => 'Send Notification For All Users',
+    'notification_body'    => 'Notification Body',
+    'notification_sent'    => 'Notification sent successfully',
+    'app-name'             => 'Souq Albdr',
+];
